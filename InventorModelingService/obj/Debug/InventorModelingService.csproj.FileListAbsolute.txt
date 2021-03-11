@@ -1,0 +1,17 @@
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\InventorModelingService.exe.config
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\InventorModelingService.exe
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\InventorModelingService.pdb
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\Autodesk.Inventor.Interop.dll
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\LiteDB.dll
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\TypeServiceLibrary.dll
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\stdole.dll
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\Autodesk.Inventor.Interop.xml
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\LiteDB.xml
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\VifabTypeService\InventorModelingService\bin\Debug\TypeServiceLibrary.pdb
+D:\Projects\VifabTypeService\InventorModelingService\obj\Debug\InventorModelingService.csprojAssemblyReference.cache
+D:\Projects\VifabTypeService\InventorModelingService\obj\Debug\InventorModelingService.csproj.CoreCompileInputs.cache
+D:\Projects\VifabTypeService\InventorModelingService\obj\Debug\InventorModelingService.csproj.CopyComplete
+D:\Projects\VifabTypeService\InventorModelingService\obj\Debug\InventorModelingService.exe
+D:\Projects\VifabTypeService\InventorModelingService\obj\Debug\InventorModelingService.pdb

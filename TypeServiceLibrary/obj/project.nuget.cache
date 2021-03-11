@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZBTsQ17MF/XCvUN/HS2v6S4ggUHgBvjLnw8MSl6jIRYaBAYwC594d3QGImy1N5UzO3Q+YuFx06GL/jn2e67V3w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\VifabTypeService\\TypeServiceLibrary\\TypeServiceLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aaron\\.nuget\\packages\\litedb\\5.0.9\\litedb.5.0.9.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\aaron\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

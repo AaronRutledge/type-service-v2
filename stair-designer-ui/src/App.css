@@ -1,0 +1,8 @@
+/* .ant-input-group-addon {
+    border: none;
+    background-color: transparent;
+} */
+.ant-popover-placement-top{
+    padding-left: 20px;
+}
+@import '~antd/dist/antd.css';

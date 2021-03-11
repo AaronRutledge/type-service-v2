@@ -1,0 +1,9 @@
+D:\Projects\VifabTypeService\TypeServiceLibrary\bin\Debug\netstandard2.0\TypeServiceLibrary.deps.json
+D:\Projects\VifabTypeService\TypeServiceLibrary\bin\Debug\netstandard2.0\TypeServiceLibrary.dll
+D:\Projects\VifabTypeService\TypeServiceLibrary\bin\Debug\netstandard2.0\TypeServiceLibrary.pdb
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.csprojAssemblyReference.cache
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.AssemblyInfoInputs.cache
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.AssemblyInfo.cs
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.dll
+D:\Projects\VifabTypeService\TypeServiceLibrary\obj\Debug\netstandard2.0\TypeServiceLibrary.pdb
